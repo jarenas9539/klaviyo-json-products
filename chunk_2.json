@@ -1,0 +1,11 @@
+[
+  {
+    "id": "product-003",
+    "title": "Jose Test Chunk 2 - Item 1",
+    "description": "Jose Test Chunk 2",
+    "url": "https://bluethumb.com.au",
+    "image_url": "https://assets.bluethumb.com.au/assets/8e7a/v/category-landscape-CPmTCrpy.webp",
+    "price": 59,
+    "market": "au"
+  }
+]
